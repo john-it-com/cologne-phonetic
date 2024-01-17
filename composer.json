@@ -1,5 +1,5 @@
 {
-  "name": "patrickschur/cologne-phonetic",
+  "name": "john-it-com/cologne-phonetic",
   "type": "library",
   "description": "Implementation of Cologne Phonetics (Kölner Phonetik) in PHP.",
   "keywords": ["cologne", "phonetic", "kölner", "phonetik"],
